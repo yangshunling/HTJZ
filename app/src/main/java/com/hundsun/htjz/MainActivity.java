@@ -14,14 +14,13 @@ import com.github.dfqin.grantor.PermissionsUtil;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
-import androidx.appcompat.app.AppCompatActivity;
 
 /**
  * @Description: MainActivity
  * @Author: Anonymous
  * @Time: 2020/9/16 13:42
  */
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends BaseActivity {
 
     private EditText mEdittext;
     private Button mButton;

@@ -9,6 +9,7 @@
         android:id="@+id/edittext"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:text="https://datav.aliyuncs.com/share/ad84da7bf11bd5d2bb3a9c0c655943ef"
         android:hint="请输入地址"/>
     <Button
         android:id="@+id/button"
